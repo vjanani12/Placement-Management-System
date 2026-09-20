@@ -288,7 +288,7 @@ Closes the application.
 
 CSE Student | Aspiring Full-Stack Developer
 
-GitHub: **vjanani12**
+GitHub: https://github.com/vjanani12
 
 ---
 
